@@ -1,0 +1,73 @@
+.featured-works {
+  padding: 80px 0;
+}
+
+.featured-works h2 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 3.5rem;
+  font-weight: normal;
+  text-align: left;
+  margin-bottom: 60px;
+}
+
+.work-item-link {
+  text-decoration: none; /* Removes the underline from the link */
+}
+
+.work-item-card {
+  padding: 0 15px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.work-image-container {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.07);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.work-item-card:hover .work-image-container {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.work-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.work-caption {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #555;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.slick-prev,
+.slick-next {
+  width: 40px;
+  height: 40px;
+  z-index: 1;
+}
+
+.slick-prev {
+  left: -50px;
+}
+.slick-next {
+  right: -50px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-size: 40px;
+  color: #888;
+  opacity: 0.75;
+}
+
+.slick-prev:hover:before,
+.slick-next:hover:before {
+  color: #333;
+  opacity: 1;
+}

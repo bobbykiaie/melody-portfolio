@@ -1,0 +1,31 @@
+/* src/App.css */
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #fff8f0;
+  color: #333;
+}
+
+.App {
+  /* This no longer needs to be constrained */
+}
+
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  /* CHANGED: Reduced top padding from 40px to 20px */
+  padding: 20px 20px 40px 20px;
+}
+
+.contact-footer-section {
+  background-color: #D9A9A8;
+  color: #4B4B4B;
+  box-sizing: border-box;
+  
+  /* CHANGED: Reduced top padding from 80px to 60px */
+  padding: 60px 20px;
+}

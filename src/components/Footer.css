@@ -1,0 +1,29 @@
+.footer {
+  width: 100%;
+  max-width: 1200px; 
+  padding-top: 40px; /* Add space between form and footer line */
+}
+
+.footer-content {
+  margin: 0 auto;
+  padding-top: 30px;
+  border-top: 1px solid #C49493;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.copyright {
+  margin: 0;
+}
+
+.social-links a {
+  color: #4B4B4B;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.social-links a:hover {
+  color: #222;
+}
