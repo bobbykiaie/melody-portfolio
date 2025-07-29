@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/melody-portfolio/static/css/main.94e0fc90.css",
+    "main.js": "/melody-portfolio/static/js/main.cd555996.js",
+    "static/js/453.9ecee1d1.chunk.js": "/melody-portfolio/static/js/453.9ecee1d1.chunk.js",
+    "static/media/profile.png": "/melody-portfolio/static/media/profile.cc008e38bda28e8937c9.png",
+    "static/media/background.avif": "/melody-portfolio/static/media/background.a401271d42ac9a531b58.avif",
+    "static/media/slick.svg": "/melody-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/melody-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/melody-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/melody-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/melody-portfolio/index.html",
+    "main.94e0fc90.css.map": "/melody-portfolio/static/css/main.94e0fc90.css.map",
+    "main.cd555996.js.map": "/melody-portfolio/static/js/main.cd555996.js.map",
+    "453.9ecee1d1.chunk.js.map": "/melody-portfolio/static/js/453.9ecee1d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94e0fc90.css",
+    "static/js/main.cd555996.js"
+  ]
+}
